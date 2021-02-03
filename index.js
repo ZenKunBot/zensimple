@@ -15,21 +15,21 @@ const speed = require('performance-now');
 const apivhtear = 'apikey';
 const apibarbar = 'apikey';
 const tobzkey = 'apikey';
-const BotName = 'Lexa';
-const wa = 'https://chat.whatsapp.com/FQNUK5VFD68GZaB0UlXjst';
+const BotName = 'Zen';
+const wa = 'gaada';
 const eror = 'Info fitur Error';
-const ow = 'Mrf.zvx';
-const nomorowner = '082223014661';
-const ovo = '082223014661';
-const pulsa = '082223014661';
-const dana = '082223014661';
-const instagram = 'http://www.instagram.com/mrf.zvx';
-const aktif = '08:00 - 22:00';
+const ow = 'ZenKun';
+const nomorowner = '083856061828';
+const ovo = '081216563395';
+const pulsa = '081216563395';
+const dana = '081358614995';
+const instagram = 'http://www.instagram.com/k.f_official_';
+const aktif = 'JikaAdaKuota';
 const vcard = 'BEGIN:VCARD\n'
   + 'VERSION:3.0\n'
-  + 'FN:Mrf.zvx\n' // Nama kamu
-  + 'ORG:Lexa;\n' // Nama bot
-  + 'TEL;type=CELL;type=VOICE;waid=6282223014661:+62 822-2301-4661\n' //Nomor whatsapp kamu
+  + 'FN:ZenKun\n' // Nama kamu
+  + 'ORG:Zen;\n' // Nama bot
+  + 'TEL;type=CELL;type=VOICE;waid=6283856061828:+62 838-5606-1828\n' //Nomor whatsapp kamu
   + 'END:VCARD'
 //
 const
@@ -2847,33 +2847,32 @@ Gunakan command dengan huruf kecil dan tanpa tanda kurung ()
 ╠≽ *.Mwolf (teks)*
 ╠ _Ex : .Mwolf Lexa_
 ╠≽ *.Mglow (teks)*
-╠ _Ex : .Mglow Lexa_
+╠ _Ex : .Mglow Zen_
 ╠≽ *.Hpotter (teks)*
-╠ _Ex : .Hpotter Lexa_
+╠ _Ex : .Hpotter Zen_
 ╠≽ *.Cfire (teks)*
-╠ _Ex : .Cfire Lexa_
+╠ _Ex : .Cfire Zen_
 ╠≽ *.Wface1 (teks)*
-╠ _Ex : .Wface1 Lexa_
+╠ _Ex : .Wface1 Zen_
 ╠≽ *.Wface2 (teks)*
-╠ _Ex : .Wface2 Lexa_
+╠ _Ex : .Wface2 Zen_
 ╠≽ *.Battlef (teks)*
-╠ _Ex : .Battlef Lexa_
+╠ _Ex : .Battlef Zen_
 ╠≽ *.Lol (teks)*
-╠ _Ex : .Lol Lexa_
+╠ _Ex : .Lol Zen_
 ╠≽ *.Csgo (teks)*
-╠ _Ex : .Csgo Lexa_
+╠ _Ex : .Csgo Zen_
 ╠≽ *.Tahta (teks)*
-╠ _Ex : .Tahta Lexa_
+╠ _Ex : .Tahta Zen_
 ╠≽ *.Owatch (teks)*
-╠ _Ex : .Owatch Lexa_
+╠ _Ex : .Owatch Zen_
 ╠════════════════════
 ║──────── *${BotName}* ──────── 
-║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
-║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
+║  Donasi = Berjalan
 ║──────── *${BotName}* ────────
 ╠════════════════════
 ╠════════════════════
-║────✪ 🄼🅁🄵.🅉🅅🅇 ✪────
+║────✪ Zen Kun ✪────
 ╚════════════════════`, MessageType.text, { quoted: m });
   }
 
@@ -2905,12 +2904,11 @@ Gunakan command dengan huruf kecil dan tanpa tanda kurung ()
 ╠ _Random foto lucu_ 
 ╠════════════════════
 ║──────── *${BotName}* ──────── 
-║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
-║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
+║  Donasi = Berjalan
 ║──────── *${BotName}* ────────
 ╠════════════════════
 ╠════════════════════
-║────✪ 🄼🅁🄵.🅉🅅🅇 ✪────
+║────✪ Zen Kun ✪────
 ╚════════════════════`, MessageType.text, { quoted: m });
   }
 
@@ -2925,23 +2923,22 @@ Gunakan command dengan huruf kecil dan tanpa tanda kurung ()
 ╠≽️ *.Stiker*
 ╠ _Kirim foto ketik .stiker_ 
 ╠≽️ *.Nulis*
-╠ _Ex = .Nulis aku cinta Lexa_ 
+╠ _Ex = .Nulis aku cinta Zen_ 
 ╠≽️ *.Ocr*
 ╠ _Mencopy kalimat di gambar_ 
 ╠≽️ *.Stalk (username ig)*
-╠ _Ex = .Stalk @Lexa_ 
+╠ _Ex = .Stalk @k.f_official__ 
 ╠≽️ *.Shortlink (link)*
 ╠ _Pemendek link_ 
 ╠≽️ *.ssweb (link)*
 ╠ _Screenshoot Web_
 ╠════════════════════
 ║──────── *${BotName}* ──────── 
-║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
-║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
+║  Donasi = Berjalan
 ║──────── *${BotName}* ────────
 ╠════════════════════
 ╠════════════════════
-║────✪ 🄼🅁🄵.🅉🅅🅇 ✪────
+║────✪ Zen Kun ✪────
 ╚════════════════════`, MessageType.text, { quoted: m });
   }
 
@@ -2954,23 +2951,22 @@ Gunakan command dengan huruf kecil dan tanpa tanda kurung ()
 ║─────〘  *Primbon* 〙──────
 ╠════════════════════
 ╠≽️ *.Arti (Namamu)*
-╠ _Ex = .Arti Lexa_ 
+╠ _Ex = .Arti Zen_ 
 ╠≽️ *.Couple (Namamu & doi)*
-╠ _Ex = .Couple Lexa & udan_ 
+╠ _Ex = .Couple Zen & Faza_ 
 ╠≽️ *.Getzodiak (Nama & tgl)
-╠ _Ex : .Getzodiak Lexa & 09-09-2002_ 
+╠ _Ex : .Getzodiak Zen & 10-06-2004_ 
 ╠≽️ *.Zodiak (Nama zodiak)*
 ╠ _Ex : .Zodiak libra_ 
 ╠≽️ *.Mimpi (teks)*
 ╠ _Ex : .Mimpi ular_
 ╠════════════════════
 ║──────── *${BotName}* ──────── 
-║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
-║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
+║  Donasi = Berjalan
 ║──────── *${BotName}* ────────
 ╠════════════════════
 ╠════════════════════
-║────✪ 🄼🅁🄵.🅉🅅🅇 ✪────
+║────✪ Zen Kun ✪────
 ╚════════════════════ `, MessageType.text, { quoted: m });
   }
 
@@ -2997,7 +2993,7 @@ Gunakan command dengan huruf kecil dan tanpa tanda kurung ()
 ╠≽️ *Nime (nama anime)*
 ╠ _Ex : .Nime naruto_ 
 ╠≽️ *.Namae (Teks)*
-╠ _Ex : .Namae Lexa_ 
+╠ _Ex : .Namae Zen_ 
 ╠≽️ *.Puisi1*
 ╠ _Random puisi_ 
 ╠≽️ *.Puisi2*
@@ -3017,15 +3013,14 @@ Gunakan command dengan huruf kecil dan tanpa tanda kurung ()
 ╠≽️ *.Chatprank (teks1/teks2)*
 ╠ _Ex : .Chatprank Hai bang/sat_ 
 ╠≽️ *.Alay (teks)*
-╠ _Ex : .Alay hai Lexa_ 
+╠ _Ex : .Alay hai Zen_ 
 ╠════════════════════
 ║──────── *${BotName}* ──────── 
-║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
-║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
+║  Donasi = Berjalan
 ║──────── *${BotName}* ────────
 ╠════════════════════
 ╠════════════════════
-║────✪ 🄼🅁🄵.🅉🅅🅇 ✪────
+║────✪ Zen Kun ✪────
 ╚════════════════════`, MessageType.text, { quoted: m });
   }
 
@@ -3050,12 +3045,11 @@ Gunakan command dengan huruf kecil dan tanpa tanda kurung ()
 ╠ _.Kapan (Teks)_ 
 ╠════════════════════
 ║──────── *${BotName}* ──────── 
-║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
-║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
+║  Donasi = Berjalan
 ║──────── *${BotName}* ────────
 ╠════════════════════
 ╠════════════════════
-║────✪ 🄼🅁🄵.🅉🅅🅇 ✪────
+║────✪ Zen Kun ✪────
 ╚════════════════════ `, MessageType.text, { quoted: m });
   }
 
@@ -3085,12 +3079,11 @@ Gunakan command dengan huruf kecil dan tanpa tanda kurung ()
 ╠ _Memberikan notif kemember_ 
 ╠════════════════════
 ║──────── *${BotName}* ──────── 
-║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
-║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
+║  Donasi = Berjalan
 ║──────── *${BotName}* ────────
 ╠════════════════════
 ╠════════════════════
-║────✪ 🄼🅁🄵.🅉🅅🅇 ✪────
+║────✪ Zen Kun ✪────
 ╚════════════════════`, MessageType.text, { quoted: m });
   }
 
@@ -3119,7 +3112,7 @@ Gunakan command dengan huruf kecil dan tanpa tanda kurung ()
   if (messageType === MessageType.text) {
     let is = m.message.conversation.toLocaleLowerCase()
     if (is == '.gombal') {
-      fetch('https://raw.githubusercontent.com/mrfzvx12/random-scraper/main/random/gombal.txt')
+      fetch('gapake')
         .then(res => res.text())
         .then(body => {
           let tod = body.split("\n");
@@ -3135,7 +3128,7 @@ Gunakan command dengan huruf kecil dan tanpa tanda kurung ()
   if (messageType === MessageType.text) {
     let is = m.message.conversation.toLocaleLowerCase()
     if (is == '.receh') {
-      fetch('https://raw.githubusercontent.com/mrfzvx12/random-scraper/main/random/receh.txt')
+      fetch('gapake')
         .then(res => res.text())
         .then(body => {
           let tod = body.split("\n");
@@ -3150,7 +3143,7 @@ Gunakan command dengan huruf kecil dan tanpa tanda kurung ()
   if (messageType === MessageType.text) {
     let is = m.message.conversation.toLocaleLowerCase()
     if (is == '.truth') {
-      fetch('https://raw.githubusercontent.com/mrfzvx12/random-scraper/main/random/truth.txt')
+      fetch('gapake')
         .then(res => res.text())
         .then(body => {
           let tod = body.split("\n");
@@ -3165,7 +3158,7 @@ Gunakan command dengan huruf kecil dan tanpa tanda kurung ()
   if (messageType === MessageType.text) {
     let is = m.message.conversation.toLocaleLowerCase()
     if (is == '.dare') {
-      fetch('https://raw.githubusercontent.com/mrfzvx12/random-scraper/main/random/dare.txt')
+      fetch('gapake')
         .then(res => res.text())
         .then(body => {
           let tod = body.split("\n");
@@ -3180,7 +3173,7 @@ Gunakan command dengan huruf kecil dan tanpa tanda kurung ()
   if (messageType === MessageType.text) {
     let is = m.message.conversation.toLocaleLowerCase()
     if (is == '.statpack') {
-      fetch('https://raw.githubusercontent.com/mrfzvx12/random-scraper/main/random/statusbapack.txt')
+      fetch('gapake')
         .then(res => res.text())
         .then(body => {
           let tod = body.split("\n");
